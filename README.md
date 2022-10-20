@@ -5,7 +5,7 @@ First Time:
 
 The PCB Part Libraries require FREE software to convert them into your ECAD Format.
 
-To get started please visit - RS.componentsearchengine.com/pcb-libraries.php
+To get started please visit - RS.componentsearchengine.com/pcb-libraries.php  http://rs.componentsearchengine.com/pcb-libraries.php
 
 Subsequent Times:
 
